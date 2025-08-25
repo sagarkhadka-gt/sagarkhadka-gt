@@ -7,8 +7,7 @@ Welcome to my GitHub profile!
 - React ⚛️
 
 ## 📫 How to reach me:
-[LinkedIn](https://linkedin.com/in/yourname)  
-[Email](thisissagarkhadka@gmail.com/sagar.khadka@hingehealth.com)
+Email: sagar.khadka@hingehealth.com / thisissagarkhadka@gmail.com
 
 
 <!--
