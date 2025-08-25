@@ -1,4 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm sagarkhadka-gt!
+Welcome to my GitHub profile!
+
+## 🛠️ Technologies I use:
+- Python 🐍
+- JavaScript ⚡
+- React ⚛️
+
+## 📫 How to reach me:
+[LinkedIn](https://linkedin.com/in/yourname)  
+[Email](thisissagarkhadka@gmail.com/sagar.khadka@hingehealth.com)
+
 
 <!--
 **sagarkhadka-gt/sagarkhadka-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
